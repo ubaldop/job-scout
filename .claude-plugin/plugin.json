@@ -1,0 +1,13 @@
+{
+  "name": "job-scout",
+  "version": "0.1.0",
+  "description": "Job hunting for Claude Code: finds live job offers that match your profile on public company job boards, then prepares a tailored CV, a cover letter and ready-to-paste application form answers for each one.",
+  "author": {
+    "name": "ubaldop",
+    "url": "https://github.com/ubaldop"
+  },
+  "homepage": "https://github.com/ubaldop/job-scout",
+  "repository": "https://github.com/ubaldop/job-scout",
+  "license": "MIT",
+  "keywords": ["jobs", "job-search", "resume", "cv", "cover-letter", "career", "ats", "greenhouse", "ashby", "lever"]
+}

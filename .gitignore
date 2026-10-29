@@ -1,0 +1,6 @@
+# Personal data: never commit a real profile, CV or application
+/job-scout/
+__pycache__/
+*.pyc
+.DS_Store
+

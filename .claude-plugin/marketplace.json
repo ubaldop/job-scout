@@ -1,0 +1,17 @@
+{
+  "name": "job-scout",
+  "description": "Job Scout: a Claude Code plugin that finds job offers matching your profile and prepares tailored applications.",
+  "owner": {
+    "name": "ubaldop",
+    "url": "https://github.com/ubaldop"
+  },
+  "plugins": [
+    {
+      "name": "job-scout",
+      "source": "./",
+      "description": "Find job offers that match your profile and prepare a tailored CV, cover letter and application form answers for each one.",
+      "version": "0.1.0",
+      "category": "productivity"
+    }
+  ]
+}
